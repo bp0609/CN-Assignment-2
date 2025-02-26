@@ -1,3 +1,3 @@
 /venv
-
+# Ignore all .pcap files anywhere in the repository
 *.pcap
