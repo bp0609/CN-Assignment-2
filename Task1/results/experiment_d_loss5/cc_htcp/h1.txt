@@ -1,0 +1,4 @@
+Total Throughput: 100214834.19 bits/s
+Total Goodput: 99920212.09 bits/s
+Packet Loss Rate: 47.78%
+Maximum Window Size: 43440
